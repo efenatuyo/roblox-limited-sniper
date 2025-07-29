@@ -1,0 +1,30 @@
+{
+    "webhook": "https://discord.com/api/webhooks/1399803350039658618/",
+
+    "account": {
+        "otp_token": "",
+        "cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhAB."
+    },
+    "buy_settings": {
+        "generic_settings": {
+            "min_percentage_off": 15,
+            "min_robux_off": 100,
+            "max_robux_cost": 1000,
+            "price_measurer": "rap"
+        },
+        "custom_settings": {
+            "4771632715": {
+                "min_percentage_off": 50,
+                "min_robux_off": 0,
+                "max_robux_cost": 10000,
+                "price_measurer": "rap"
+            }
+        }
+    },
+    "limiteds": [
+        [4771632715, "de8c9733-9f5b-42a9-b9f3-b75f581e2fbd"]
+    ],
+    "proxies": [
+        null
+    ]
+}
