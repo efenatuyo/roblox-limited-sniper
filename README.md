@@ -1,10 +1,4 @@
 # roblox-limited-sniper
-wow a free fast limited sniper?
+this code does not use proxies and is slow. 
 
-i know i have done this more than once whoops... but i get better each time so 😛
-
-did not really test this but i know it can buy limiteds 
-
-no tutorial cus this is free
-
-tuto at hmmm 20 stars
+dm xolo_king (dc) for private paid version. Over million checks per minute
